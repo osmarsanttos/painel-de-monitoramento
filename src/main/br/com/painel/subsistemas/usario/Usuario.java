@@ -1,4 +1,4 @@
-package br.com.painel.subsistemas.usuario;
+ package br.com.painel.subsistemas.usuario;
 
 public class Usuario {
     public String nome, email, perfil;

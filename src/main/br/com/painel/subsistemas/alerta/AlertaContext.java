@@ -1,4 +1,4 @@
-package br.com.painel.subsistemas.alerta;
+ package br.com.painel.subsistemas.alerta;
 
 public class AlertaContext {
     private IAlertaStrategy strategy;

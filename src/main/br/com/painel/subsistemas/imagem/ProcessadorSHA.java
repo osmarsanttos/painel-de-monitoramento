@@ -1,7 +1,7 @@
 package br.com.painel.subsistemas.imagem;
 import java.util.*;
 
-// Padrão Template Method 
+ // Padrão Template Method 
 public abstract class ProcessadorSHA {
     private List<ILeituraObserver> observers = new ArrayList<>();
     public final void processarFluxo(String path) {

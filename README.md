@@ -26,7 +26,7 @@ Abaixo, apresento o status de desenvolvimento do sistema dividido por semanas:
  
  | Em Progresso | ████████░░ 80% |
 
----
+
 
 ## 🏗️ Padrões de Projeto Aplicados
 

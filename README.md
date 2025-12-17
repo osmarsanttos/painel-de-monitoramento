@@ -21,8 +21,10 @@ Abaixo, apresento o status de desenvolvimento do sistema dividido por semanas:
 | **Semana 3** | Integração dos 6 Padrões de Projeto (GoF) 
 
  | Em Progresso | ████████░░ 80% |
+
+| **Semana 4** | Testes de Integração e Vídeo de Entrega 
  
-| **Semana 4** | Testes de Integração e Vídeo de Entrega | Planejado | ░░░░░░░░░░ 0% |
+ | Em Progresso | ████████░░ 80% |
 
 ---
 

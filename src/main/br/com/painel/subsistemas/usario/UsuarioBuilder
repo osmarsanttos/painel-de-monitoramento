@@ -1,6 +1,6 @@
 package br.com.painel.subsistemas.usuario;
 
-// Padrão Builder 
+ // Padrão Builder 
 public class UsuarioBuilder {
     private String nome, email, perfil;
     public UsuarioBuilder setNome(String n) { this.nome = n; return this; }

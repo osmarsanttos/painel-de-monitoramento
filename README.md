@@ -13,12 +13,15 @@ Abaixo, apresento o status de desenvolvimento do sistema dividido por semanas:
 | **Semana 1** | Especificação de Requisitos e Diagramas 
 
  | Concluído | ██████████ 100% |
+
 | **Semana 2** | Implementação da Fachada e Subsistemas Base 
 
  | Concluído | ██████████ 100% |
+
 | **Semana 3** | Integração dos 6 Padrões de Projeto (GoF) 
 
  | Em Progresso | ████████░░ 80% |
+ 
 | **Semana 4** | Testes de Integração e Vídeo de Entrega | Planejado | ░░░░░░░░░░ 0% |
 
 ---

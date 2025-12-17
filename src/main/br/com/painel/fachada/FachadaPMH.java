@@ -5,7 +5,7 @@ import br.com.painel.subsistemas.alerta.*;
 import br.com.painel.subsistemas.imagem.*;
 import br.com.painel.subsistemas.infra.*;
 
-// Padrão Facade: Ponto de entrada 
+ // Padrão Facade: Ponto de entrada 
 public class FachadaPMH implements ILeituraObserver {
     private AlertaContext alerta = new AlertaContext();
     private LogManager logger = LogManager.getInstance();

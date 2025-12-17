@@ -1,6 +1,6 @@
 package br.com.painel.subsistemas.infra;
 
-// Padrão Singleton 
+ // Padrão Singleton 
 public class LogManager {
     private static LogManager instance;
     private LogManager() {}

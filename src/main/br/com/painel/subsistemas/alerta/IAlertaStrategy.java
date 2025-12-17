@@ -1,6 +1,6 @@
 package br.com.painel.subsistemas.alerta;
 
-// Padrão Strategy 
+ // Padrão Strategy 
 public interface IAlertaStrategy {
     boolean verificar(double consumo, double limite);
 }

@@ -1,6 +1,6 @@
 package br.com.painel.subsistemas.infra;
 
-//Padrão Singleton
+ //Padrão Singleton
 public class EmailService {
     private static EmailService instance;
     private EmailService() {}
